@@ -35,7 +35,6 @@
         Daar waar dekking niet aanwezig is op plaatsen waar dit duidelijk gewenst is, faciliteert
         de overheid het aanleggen van bedraad of draadloos internet.
 
-
 *   ## Veiligheid ##
 
     * Veiligheid is een recht. Wie zich niet veilig voelt, kan zich niet vrij gedragen. In de
@@ -72,7 +71,6 @@
         essentiële organisaties moet regelmatig geoefend worden met scenario's waarbij stroom- en
         netwerkvoorzieningen langdurig niet meer werken.
 
-
 *   ## Internationaal ##
 
     * De Piratenpartij is bij uitstek een internationaal georiënteerde partij. De Piratenpartij is
@@ -105,7 +103,6 @@
         * Common Grounds, een lijst met punten waaraan we ons houden. Verdragen op Europees en
         internationaal niveau worden samen met de PPI en nationale Piratenpartijen aangepast of
         afgeschaft waar nodig.
-
 
 *   ## Onderwijs ##
 
@@ -170,7 +167,6 @@
         kwaliteit. Iedere onderwijsinstelling op de wereld kan van deze softwareontwikkeling
         profiteren en helpen deze verder te ontwikkelen.
 
-
 *   ## Wetenschap ##
 
     * De wetenschap is één van de ankers van een goed werkende democratie. Daarvoor
@@ -207,7 +203,6 @@
         collegawetenschappers een artikel beoordelen, heeft publicatie in een (gesloten)
         wetenschappelijk tijdschrift grote waarde voor de wetenschapper. Om open publicatie te
         bevorderen moet peer-review in een open source context worden gefaciliteerd.
-
 
 * ## Ontwikkelingssamenwerking ##
 
