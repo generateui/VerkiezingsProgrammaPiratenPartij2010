@@ -1,4 +1,4 @@
-*   ## Vrijheid van informatie ##
+* ## Vrijheid van informatie ##
 
     * Informatie, ontwerpen en ideeën moeten vrij toegankelijk zijn. Daardoor kan deze informatie
     optimaal door mensen benut worden. Alle beperkingen in die vrije stroom van informatie moeten
@@ -35,7 +35,7 @@
         Daar waar dekking niet aanwezig is op plaatsen waar dit duidelijk gewenst is, faciliteert
         de overheid het aanleggen van bedraad of draadloos internet.
 
-*   ## Veiligheid ##
+* ## Veiligheid ##
 
     * Veiligheid is een recht. Wie zich niet veilig voelt, kan zich niet vrij gedragen. In de
     informatiesamenleving zijn we ook afhankelijk geworden van het internet. Daar waar veiligheid nu
@@ -71,7 +71,7 @@
         essentiële organisaties moet regelmatig geoefend worden met scenario's waarbij stroom- en
         netwerkvoorzieningen langdurig niet meer werken.
 
-*   ## Internationaal ##
+* ## Internationaal ##
 
     * De Piratenpartij is bij uitstek een internationaal georiënteerde partij. De Piratenpartij is
     actief in meer dan 40 landen. De informatiesamenleving is een wereldwijde samenleving die ook
@@ -104,7 +104,7 @@
         internationaal niveau worden samen met de PPI en nationale Piratenpartijen aangepast of
         afgeschaft waar nodig.
 
-*   ## Onderwijs ##
+* ## Onderwijs ##
 
     * Onderwijs is de basis van een informatiesamenleving. Via het onderwijs leren mensen hoe ze met
     de informatiesamenleving om kunnen gaan en welke waarde informatie heeft. Het onderwijs helpt
@@ -167,7 +167,7 @@
         kwaliteit. Iedere onderwijsinstelling op de wereld kan van deze softwareontwikkeling
         profiteren en helpen deze verder te ontwikkelen.
 
-*   ## Wetenschap ##
+* ## Wetenschap ##
 
     * De wetenschap is één van de ankers van een goed werkende democratie. Daarvoor
     moet wetenschap onafhankelijk zijn en geen taboes kennen. Ook moet de kennis en expertise van
