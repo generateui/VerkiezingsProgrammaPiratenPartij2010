@@ -95,12 +95,18 @@
     *   **Het ACTA-verdrag en andere verdragen die inbreuk plegen op nationale burger- en
     consumentenrechten zullen niet worden ingevoerd.**
 
-        * Het (verhindert?) overheidstransparantie, innovatie en creativiteit, en wordt niet
-        ingevoerd.
+        * Het ACTA-verdrag heeft als doel om auteursrecht, patentrecht en merkenrecht in de huidige
+        vorm te handhaven en de handhaving strenger te maken. Het is een verdrag waardoor landen die
+        deelnemen veel moeilijker eigen beleid kunnen maken. Het ACTA-verdrag wordt onderhandeld
+        achter gesloten deuren waardoor democratische invloed niet mogelijk is. Het ACTA-verdrag
+        druist lijnrecht in tegen de burgerrechten, overheidstransparantie, innovatie en
+        creativiteit, en wordt niet ingevoerd.
 
     *   **Op Europees en wereldwijd niveau zal worden samengewerkt met andere Piratenpartijen.**
 
-        * Common Grounds, een lijst met punten waaraan we ons houden. Verdragen op Europees en
+        * Pirate Parties International is een organisatie in Brussel die internationale samenwerking
+        met Piratenpartijen over de gehele wereld bevordert. Piratenpartij Nederland onderschrijft
+        de Common Grounds, een lijst met punten waaraan we ons houden. Verdragen op Europees en
         internationaal niveau worden samen met de PPI en nationale Piratenpartijen aangepast of
         afgeschaft waar nodig.
 
@@ -111,7 +117,7 @@
     mensen een denkkader te ontwikkelen waarin nieuwe informatie ingepast kan worden. Zonder
     onderwijs is informatie waardeloos.
 
-    * Informatie werd v&oacute;&oacute;r het internettijdperk voornamelijk geordend en gewaardeerd
+    * Informatie werd vóór het internettijdperk voornamelijk geordend en gewaardeerd
     door professionals. Journalisten schreven in kranten en tijdschriften, wetenschappers
     publiceerden onder elkaar en redacteuren stelden een encyclopedie samen. In de
     informatiesamenleving moet iedereen informatie kunnen ordenen en waarderen. Iedereen is
@@ -206,9 +212,13 @@
 
 * ## Ontwikkelingssamenwerking ##
 
-    * Door de auteursrechten te ontdoen, kan iedereen zich ontwikkelen. Mensen uit
-    ontwikkelingslanden kunnen dan op gelijke voet met mensen uit ontwikkelde landen nieuwe ideeën
-    delen en uitvoeren.
+    * De Piratenpartij wil alle mensen op de wereld gelijke kansen tot ontplooiing bieden. Daarom
+    moeten informatie, kennis en expertise voor zover mogelijk met mensen in ontwikkelingslanden
+    gedeeld worden. Niet de overheden in ontwikkelingslanden moeten centraal staan, maar de mensen.
+    Juist wanneer mensen de kans krijgen zich te ontwikkelen, zal een land zich ontwikkelen. Door de
+    wereld van de ontwrichtende werking van patenten en auteursrechten te ontdoen, kan iedereen zich
+    ontwikkelen. Mensen uit ontwikkelingslanden kunnen dan op gelijke voet met mensen uit ontwikkelde
+    landen nieuwe ideeën delen en uitvoeren.
 
     *   **Onderdeel van beleid wordt het wereldwijd bevorderen van overdracht van technologie.**
 
@@ -236,15 +246,17 @@
     *   **Nederland biedt hulp voor vrije internettoegang aan burgers in landen waar vrije
     internettoegang niet gewaarborgd is.**
 
-        * Internettoegang is een wereldwijd internet te bieden. Nederland biedt hulp aan burgers in
-        alle landen waar vrije internettoegang niet gewaarborgd is.
+        * Internettoegang is een wereldwijd burgerrecht. Daarom wordt het onderdeel van
+        ontwikkelingsamenwerking om iedere burger wereldwijd vrije toegang tot het internet te bieden.
+        Nederland biedt hulp aan burgers in alle landen waar vrije internettoegang niet gewaarborgd is.
 
 * ## Efficiënte overheid ##
 
     * De overheid is inefficiënt. Centrale overheden vinden in elk land het wiel opnieuw uit, en bij
     decentrale overheden gebeurt dit nog veel vaker. Door bij de invoering van wetten al rekening te
     houden met de uitvoering en implementatie kan veel dubbel werk bespaard worden. Met combinaties
-    van internationaal kunnen overheden hierbij samenwerken.
+    van open source wetgeving, open source software en open standaarden kan de overheid veel
+    efficiënter werken. Ook internationaal kunnen overheden hierbij samenwerken.
 
     *   **Investeren in open source en open standaarden voor software zodat op termijn heel veel
     bespaard kan worden.**
@@ -279,10 +291,11 @@
 
 * ## Ondernemerschap ##
 
-    * Ondernemers moeten kunnen ondernemen. De overheid moet kleine ondernemers beschermen tegen
-    machtsconcentraties van overheden en grote ondernemingen. Daar waar de overheid van
-    MKB-ondernemers informatie vraagt, moet ze de daarvoor benodigde software open source en gratis
-    aanbieden.
+    * Ondernemers moeten kunnen ondernemen. De Piratenpartij komt op voor ondernemende burgers. Die
+    burgers moet zo min mogelijk in de weg gelegd worden. De overheid moet kleine ondernemers
+    beschermen tegen machtsconcentraties van overheden en grote ondernemingen. Daar waar de overheid
+    van MKB-ondernemers informatie vraagt, moet ze de daarvoor benodigde software open source en
+    gratis aanbieden.
 
     *   **Midden- en kleinbedrijfondernemers (MKB) kunnen innoveren en verkopen binnen Nederland
     zonder last van patenten.**
@@ -310,7 +323,10 @@
 
 * ## Mobiele telefonie en internet ##
 
-    * Voor de Piratenpartij geldt: privacy van de informatie gegarandeerd.
+    * Voor de Piratenpartij geldt: dataverkeer is dataverkeer. Daarin mag geen onderscheid gemaakt
+    worden. Telefonische data en sms, landsgrenzen en netwerkeigendom mogen geen rol spelen bij het
+    optimaliseren van dataverkeer. Op en tussen alle netwerken wordt privacy van de informatie
+    gegarandeerd.
 
     *   **Mobiele communicatie wordt gelijkgesteld aan communicatie via internet service providers (ISPs).**
 
@@ -339,7 +355,7 @@
 
     *   **Anoniem reizen blijft mogelijk en mag geen extra geld kosten.**
 
-        * Het privacy. (?)
+        * Het kilometerheffingssysteem dat nu wordt voorgesteld komt er niet wegens schending van de privacy.
 
     *   **Strippenkaart blijft zolang OV-chipkaart privacy aantast. Er wordt gewerkt aan een
     OV-betaalsysteem dat anonimiteit garandeert.**
@@ -367,8 +383,8 @@
     *   **Altijd mogelijkheid houden anoniem te betalen via contant geld of chipkaart.**
 
         * Anonimiteit moet ook mogelijk zijn bij het betalen. Ook met plastic geld moet anoniem kunnen
-        worden betaald, de verkoper hoeft niet te weten w&iacute;e er betaalt, het feit dát er betaald
-        is, is voldoende.
+        worden betaald, de verkoper hoeft niet te weten wíe er betaalt, het feit dát er betaald is,
+        is voldoende.
 
     *   **Open informatie over fraude.**
 
@@ -389,8 +405,11 @@
     *   **Subsidies om het energie opwekken met nieuwe energiebronnen te stimuleren, worden gegeven
     door patenten af te kopen, niet door de eindproducten te subsidiëren.**
 
-        * Wanneer de patent af te kopen worden publieke middelen veel beter gebruikt en hebben ze
-        een blijvend en ook internationaal effect.
+        * Wanneer de overheid met publiek geld het energie opwekken met nieuwe energiebronnen wil
+        stimuleren, kan ze er beter voor zorgen dat iedereen goedkoper de producten kan maken en
+        innoveren. Op elk eindproduct subsidie geven komt alleen de patenthouder ten goede. Door het
+        patent af te kopen worden publieke middelen veel beter gebruikt en hebben ze een blijvend en
+        ook internationaal effect.
 
     *   **Flexibele energieprijs zodat energiepieken en -dalen bij eindgebruikers kunnen wordenopgevangen.**
 
@@ -418,7 +437,7 @@
         Verwijdering van dergelijke informatie moet plaatsvinden in het gehele systeem, inclusief
         back-ups en aanverwante systemen.
 
-    *   **Tagging van foto&rsquo;s of andere privé informatie door anderen mag op netwerksites
+    *   **Tagging van foto's of andere privé informatie door anderen mag op netwerksites
     alleen met expliciete toestemming van de getagde persoon.**
 
         * Gebruikers moeten zelf de controle in de hand kunnen houden wat er met hun privégegevens
@@ -471,8 +490,10 @@
 * ## Voedsel ##
 
     * Voedsel is de basis van ons leven. Wat wij eten, blijft in ons lichaam zitten en beïnvloedt
-    onze patenten op gewassen, dieren en voedsel. Tegelijkertijd wil de Piratenpartij open informatie
-    over wat bedrijven met en in het voedsel doen. (?)
+    onze gezondheid. Tegelijkertijd is voedsel een gigantische industrie met haar eigen belangen.
+    Die belangen gaan niet altijd samen met die van de burger. De Piratenpartij wil geen patenten op
+    gewassen, dieren en voedsel. Tegelijkertijd wil de Piratenpartij open informatie over wat
+    bedrijven met en in het voedsel doen.
 
     *   **Geen patenten op gewassen, dieren en voedsel.**
 
@@ -496,8 +517,13 @@
 
     * Gezondheid wordt bereikt door gezond leven en goede medische zorg. De Piratenpartij staat voor
     vrijheid in hoe je wilt leven. De overheid kan gezond gedrag wel stimuleren. In de
-    voedingsindustrie gebeurt dit maar matig. Ook wordt er beperkt onderzoek naar medische patenten
-    af te schaffen.
+    voedingsindustrie gebeurt dit maar matig. Ook wordt er beperkt onderzoek naar gezond eten en
+    leven gedaan, omdat hier door de farmaceutische industrie niet aan te verdienen is. Deze
+    industrie zit geklemd tussen publiek gefinancierd wetenschappelijk onderzoek en verplichte
+    verzekeringen die ook door de burger gefinancierd worden. Doordat de kosten van de
+    gezondheidszorg sterker stijgen dan de economische groei wordt het nu direct noodzakelijk in de
+    kosten van de gezondheidszorg in te grijpen. Dit doet de Piratenpartij door medische patenten af
+    te schaffen.
 
     *   **Geen patenten op farmaceutische producten en medische behandelingsmethoden.**
 
