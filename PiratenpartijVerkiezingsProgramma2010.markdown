@@ -355,9 +355,9 @@
 
 * ## Geld en banken ##
 
-* Back-upsysteem voor het in stand houden van betalingsverkeer wanneer internet uitvalt. Het
-betalingssysteem moet ook wanneer het internet uitvalt kunnen functioneren. Daarom moeten banken
-ervoor zorgen dat ze een back-upsysteem hebben dat bij uitval van internet in werking kan treden.
+    * Back-upsysteem voor het in stand houden van betalingsverkeer wanneer internet uitvalt. Het
+    betalingssysteem moet ook wanneer het internet uitvalt kunnen functioneren. Daarom moeten banken
+    ervoor zorgen dat ze een back-upsysteem hebben dat bij uitval van internet in werking kan treden.
 
     *   **Zoveel mogelijk openheid over geldverkeer, geldcreatie en het financieel-economisch systeem.**
 
